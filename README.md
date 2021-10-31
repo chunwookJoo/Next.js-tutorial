@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo
 
-[**Demo**]https://next-js-tutorial-wheat.vercel.app/
+[Demo](https://next-js-tutorial-wheat.vercel.app/)
 
 ## Getting Started
 
